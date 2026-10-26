@@ -1,0 +1,9 @@
+﻿Fitur,Keterangan
+Cipta Sesi,"Tajuk, tarikh, masa, lokasi, court, harga, kapasiti"
+Link Pendaftaran,"Satu link unik per sesi, kongsi via WhatsApp"
+Pemain Daftar,"Isi nama + pilih posisi, tanpa login"
+Senarai Auto,"Tersusun automatik, tiada copy-paste"
+Senarai Menunggu,Automatik bila slot penuh
+QR Bayaran,"Muat naik gambar QR code (static, tiada bank integration)"
+Tick Bayaran,Admin tick ✓ untuk tanda sudah bayar
+Data Persisten,Disimpan dalam localStorage browser
